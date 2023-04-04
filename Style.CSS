@@ -1,0 +1,117 @@
+body {
+
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDyFr203CSWYpIc74z4c8MX5yYufAlUe0rUg&usqp=CAU"); 
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+.titulo{
+
+    background-color: rgb(36, 224, 238);
+
+}
+
+
+h2{
+
+    background-color: blue;
+    background-size: cover;
+}
+
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto; 
+  }
+  
+  td {
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid black;
+  }
+  
+  .cuadro1 {
+    background-color: red;
+  }
+
+  .cuadro1:hover {
+	background-color: whitesmoke;
+}
+  
+  .cuadro2 {
+    background-color: blue;
+  }
+
+  .cuadro2:hover {
+	background-color: whitesmoke;
+}
+  
+  .cuadro3 {
+    background-color: green;
+  }
+
+  .cuadro3:hover {
+	background-color: whitesmoke;
+}
+  
+  .cuadro4 {
+    background-color: yellow;
+  }
+
+  .cuadro4:hover {
+	background-color: whitesmoke;
+}
+  
+  .cuadro5 {
+    background-color: orange;
+  }
+
+  .cuadro5:hover {
+	background-color: whitesmoke;
+}
+  
+  .cuadro6 {
+    background-color: purple;
+  }
+
+  .cuadro6:hover {
+	background-color: whitesmoke;
+}
+  
+  .cuadro7 {
+    background-color: pink;
+  }
+
+  .cuadro7:hover {
+	background-color:whitesmoke;
+}
+  
+  .cuadro8 {
+    background-color: teal;
+  }
+
+  .cuadro8:hover {
+	background-color: whitesmoke;
+}
+  
+  .cuadro9 {
+    background-color: brown;
+  }
+
+  .cuadro9:hover {
+	background-color: whitesmoke;
+}
+  
+  .cuadro10 {
+    background-color: gray;
+  }
+
+  .cuadro10:hover {
+	background-color: whitesmoke;
+}
+  
